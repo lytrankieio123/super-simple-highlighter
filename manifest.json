@@ -42,7 +42,7 @@
 			"js/background/chrome_commands_handler.js",
 			"js/background/chrome_web_navigation_handler.js",
 			"js/background/main.js",
-			"js/background/hot-reload.js",
+			"js/background/hot-reload.js"
 
 		],
 		"persistent": false
